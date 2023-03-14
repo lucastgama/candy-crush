@@ -1,9 +1,11 @@
 <h1>Candy Crush</h1>
 
-<hr>
-
 <p align="center">
    <img src="https://user-images.githubusercontent.com/50726344/225127348-1c406503-6ec6-4432-bcae-e35e20bc59ba.png" #vitrinedev/>
+</p>
+<hr>
+<p align="center">
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=Em%20Desenvolvimento&color=RED&style=for-the-badge" #vitrinedev/>
 </p>
 
 ### Tópicos
